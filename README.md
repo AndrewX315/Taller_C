@@ -23,9 +23,9 @@
 
 ## **Contenidos**:
 
-	Módulo principal (taller_1_main.c).
-	Interfaz con los métodos declarados (taller_1_lib.h).
-	Biblioteca con los métodos desarrollados (taller_1_lib.c)
+	Módulo principal (taller_main.c).
+	Interfaz con los métodos declarados (taller_lib.h).
+	Biblioteca con los métodos desarrollados (taller_lib.c)
 
 > Aquí también puedes encontrar un script de automatización Makefile que se utilizará cuando se ejecute el módulo principal.
 
